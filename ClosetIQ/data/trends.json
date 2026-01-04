@@ -1,0 +1,82 @@
+[
+  {
+    "id": "trend_1",
+    "name": "Earth Tones",
+    "status": "trending-now",
+    "colors": ["brown", "beige", "olive", "cream", "tan"],
+    "patterns": ["solid"],
+    "categories": ["t-shirt", "sweater", "pants", "jacket"],
+    "description": "Warm, natural tones inspired by the earth. Perfect for creating cozy, grounded looks.",
+    "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=400"
+  },
+  {
+    "id": "trend_2",
+    "name": "Oversized Comfort",
+    "status": "trending-now",
+    "colors": ["black", "white", "grey"],
+    "patterns": ["solid"],
+    "categories": ["hoodie", "sweater", "t-shirt"],
+    "description": "Relaxed, oversized silhouettes for ultimate comfort and contemporary style.",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=400"
+  },
+  {
+    "id": "trend_3",
+    "name": "Monochrome Magic",
+    "status": "classic",
+    "colors": ["black", "white"],
+    "patterns": ["solid"],
+    "categories": ["shirt", "pants", "dress", "jacket"],
+    "description": "Timeless black and white combinations that never go out of style.",
+    "image": "https://images.unsplash.com/photo-1483985988355-763728e1935b?w=400"
+  },
+  {
+    "id": "trend_4",
+    "name": "Denim Revival",
+    "status": "rising",
+    "colors": ["blue", "navy"],
+    "patterns": ["solid"],
+    "categories": ["jeans", "jacket"],
+    "description": "Classic denim is making a comeback with modern cuts and washes.",
+    "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?w=400"
+  },
+  {
+    "id": "trend_5",
+    "name": "Pastels & Soft Hues",
+    "status": "rising",
+    "colors": ["pink", "lavender", "mint", "peach"],
+    "patterns": ["solid"],
+    "categories": ["blouse", "dress", "sweater"],
+    "description": "Gentle, soothing colors perfect for spring and creating feminine looks.",
+    "image": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=400"
+  },
+  {
+    "id": "trend_6",
+    "name": "Statement Patterns",
+    "status": "trending-now",
+    "colors": [],
+    "patterns": ["striped", "plaid", "geometric"],
+    "categories": ["shirt", "pants", "dress"],
+    "description": "Bold patterns that make your outfit pop and express personality.",
+    "image": "https://images.unsplash.com/photo-1496747611176-843222e1e57c?w=400"
+  },
+  {
+    "id": "trend_7",
+    "name": "Athleisure",
+    "status": "classic",
+    "colors": ["black", "grey", "navy"],
+    "patterns": ["solid"],
+    "categories": ["hoodie", "pants", "sneakers"],
+    "description": "Sporty meets casual for a versatile, comfortable everyday look.",
+    "image": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=400"
+  },
+  {
+    "id": "trend_8",
+    "name": "Business Casual 2.0",
+    "status": "rising",
+    "colors": ["navy", "grey", "white"],
+    "patterns": ["solid", "striped"],
+    "categories": ["shirt", "blouse", "pants"],
+    "description": "Modern professional wear that's comfortable yet polished.",
+    "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=400"
+  }
+]

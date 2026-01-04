@@ -1,0 +1,112 @@
+[
+  {
+    "id": "prod_1",
+    "name": "Classic Leather Watch",
+    "category": "accessories",
+    "price": 149.99,
+    "imageUrl": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?w=400",
+    "brand": "TimeCraft",
+    "colors": ["brown", "gold"],
+    "affiliateLink": "https://example.com/watch",
+    "reason": "Completes your professional look"
+  },
+  {
+    "id": "prod_2",
+    "name": "Minimalist Tote Bag",
+    "category": "bag",
+    "price": 79.99,
+    "imageUrl": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?w=400",
+    "brand": "UrbanCarry",
+    "colors": ["black", "tan"],
+    "affiliateLink": "https://example.com/bag",
+    "reason": "Perfect accessory for daily essentials"
+  },
+  {
+    "id": "prod_3",
+    "name": "White Sneakers",
+    "category": "sneakers",
+    "price": 89.99,
+    "imageUrl": "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=400",
+    "brand": "StepStyle",
+    "colors": ["white"],
+    "affiliateLink": "https://example.com/sneakers",
+    "reason": "Versatile footwear for any casual outfit"
+  },
+  {
+    "id": "prod_4",
+    "name": "Lightweight Jacket",
+    "category": "jacket",
+    "price": 129.99,
+    "imageUrl": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=400",
+    "brand": "LayerUp",
+    "colors": ["navy", "olive"],
+    "affiliateLink": "https://example.com/jacket",
+    "reason": "Essential layering piece for transitional weather"
+  },
+  {
+    "id": "prod_5",
+    "name": "Silk Scarf",
+    "category": "accessories",
+    "price": 45.99,
+    "imageUrl": "https://images.unsplash.com/photo-1601924287511-0fdad33e6c3a?w=400",
+    "brand": "LuxeTextile",
+    "colors": ["pink", "cream"],
+    "affiliateLink": "https://example.com/scarf",
+    "reason": "Adds elegance and color to any outfit"
+  },
+  {
+    "id": "prod_6",
+    "name": "Classic Denim Jacket",
+    "category": "jacket",
+    "price": 99.99,
+    "imageUrl": "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?w=400",
+    "brand": "DenimCo",
+    "colors": ["blue"],
+    "affiliateLink": "https://example.com/denim-jacket",
+    "reason": "Timeless piece that goes with everything"
+  },
+  {
+    "id": "prod_7",
+    "name": "Chelsea Boots",
+    "category": "boots",
+    "price": 159.99,
+    "imageUrl": "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?w=400",
+    "brand": "BootCraft",
+    "colors": ["brown", "black"],
+    "affiliateLink": "https://example.com/boots",
+    "reason": "Elevates casual and formal looks"
+  },
+  {
+    "id": "prod_8",
+    "name": "Cashmere Sweater",
+    "category": "sweater",
+    "price": 189.99,
+    "imageUrl": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=400",
+    "brand": "CozyLux",
+    "colors": ["grey", "beige", "navy"],
+    "affiliateLink": "https://example.com/sweater",
+    "reason": "Luxury comfort for cooler days"
+  },
+  {
+    "id": "prod_9",
+    "name": "Polarized Sunglasses",
+    "category": "accessories",
+    "price": 69.99,
+    "imageUrl": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=400",
+    "brand": "ShadeStyle",
+    "colors": ["black", "tortoise"],
+    "affiliateLink": "https://example.com/sunglasses",
+    "reason": "Essential accessory for sunny days"
+  },
+  {
+    "id": "prod_10",
+    "name": "Tailored Blazer",
+    "category": "jacket",
+    "price": 199.99,
+    "imageUrl": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=400",
+    "brand": "SharpFit",
+    "colors": ["navy", "charcoal"],
+    "affiliateLink": "https://example.com/blazer",
+    "reason": "Perfect for professional and formal occasions"
+  }
+]
